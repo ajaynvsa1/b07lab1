@@ -1,2 +1,4 @@
 Lab 1 Overview:
-This lab is an intro to OOP in Java and version control using Git. I implemented a Polynomial class to perform basic operations on polynomials, such as addition and evaluation. Additionally, I learned how to set up a development environment, compile and run Java programs from the command line, and manage my code using Git and GitHub.
+This lab is an intro to OOP in Java and version control using Git.
+I implemented a Polynomial class to perform basic operations on polynomials, such as addition and evaluation.
+Additionally, I learned how to set up a development environment, compile and run Java programs from the command line, and manage my code using Git and GitHub.
