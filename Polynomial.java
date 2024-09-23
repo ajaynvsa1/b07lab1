@@ -44,13 +44,6 @@ public class Polynomial{
         return sum;
     }
     public boolean hasRoot(double x){
-        double res = evaluate(x);
-        double epsilon = 0.000001;
-        if(res < 0.0){
-            return (-(res - 0.0)) < epsilon;
-        }
-        else{
-            return (res - 0.0) < epsilon;
-        }
+        return evaluate(x) == 0.0;
     }
 }
